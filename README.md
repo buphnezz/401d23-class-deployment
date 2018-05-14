@@ -21,5 +21,5 @@ Install Mongodb and start your mongodb server before running the application.
 
 The last thing to do is create your own Heroku and and Travis Cl account and link your Github to both services. 
 
-##DON'T FORGET
+## DON'T FORGET
 Ensure your .env file is added to your .gitignore to prevent your AWS key from being pushed to Github! 
